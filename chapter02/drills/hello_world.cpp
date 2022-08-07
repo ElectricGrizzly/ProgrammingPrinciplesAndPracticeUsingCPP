@@ -1,3 +1,9 @@
+/*
+    Jeffrey D. Daye
+    August 6th, 2022
+    CLASSIC C++ Hello World
+*/
+
 #include <iostream>
 
 int main()

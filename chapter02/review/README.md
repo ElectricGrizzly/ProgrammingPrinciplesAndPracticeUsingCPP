@@ -1,11 +1,9 @@
 # Chapter 2 Review
 <details>
-    <summary>What is the purpose of the "Hello, World!" program?</summary>
-    <b>
-        <p>The purpose of the "Hello, World!" program is to:</p>
-        <ul>
-            <li>Test the programming environment.</li>
-            <li>Give an initial introduction to the "feel" of a language and how it operates.</li>
-        </ul>
-    </b>
+    <summary>What is the purpose of the "Hello, World! program?</summary>
+    <p>The purpose of the "Hello, World!" program is to:</p>
+    <ul>
+        <li>Test the programming environment.</li>
+        <li>Give an initial introduction to the "feel" of a language and how it operates.</li>
+    </ul>
 </details>

@@ -22,7 +22,7 @@ int main()
         << "8. Continue along Angle Avenue until you can take a left onto Karma Place.\n"
         << "9. Continue along Karma Place until you can locate suitable parking.\n"
         << "10. Enter the side entry of the building on the corner of Karma Place and Angle Avenue.\n"
-        << "11. Once inside the building locate the classroom from guide given with course schedule.";
+        << "11. Once inside the building locate the classroom from guide given with course schedule.\n";
 
     return 0;
 }

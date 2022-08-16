@@ -16,7 +16,6 @@ double miles_to_kilometers(double miles)
 
 int main()
 {
-    
     double miles = 0;
 
     std::cout << "Please enter the number of miles you'd like to converte (followed by 'enter'):\n";

@@ -89,3 +89,76 @@
 </details>
 
 ## Chapter 3
+
+<details>
+    <summary><strong>assignment</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>cin</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>concatenation</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>conversion</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>declaration</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>decrement</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>definition</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>increment</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>initialization</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>name</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>narrowing</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>object</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>operation</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>operator</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>type</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>type safety</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>value</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>variable</strong></summary>
+    <p></p>
+</details>

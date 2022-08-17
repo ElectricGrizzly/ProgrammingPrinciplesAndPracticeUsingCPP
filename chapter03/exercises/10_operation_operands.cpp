@@ -14,6 +14,8 @@ int main()
     double operand1;
     double operand2;
 
+    std::cout << "Enter an operation (+, -, *, /, plus, minus, mul, div) followed by two operands (then press 'enter'):" << std::endl;
+
     while(std::cin >> operation >> operand1 >> operand2) {
         if (operation == "+" || operation == "plus") {
             std::cout << operand1 << " + " << operand2 << " = " << operand1 + operand2 << std::endl;

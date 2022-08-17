@@ -13,10 +13,10 @@ int main()
     std::string number;
     
     std::cout << "Please spell out a number value (followed by 'enter'):" << std::endl;
-    std::cin >> number;
+
     while (std::cin >> number) {
         if (number == "zero") {
-        std::cout << 0 << std::endl;
+            std::cout << 0 << std::endl;
         }
         else if (number == "one") {
             std::cout << 1 << std::endl;

@@ -2,7 +2,7 @@
     Jeffrey D. Daye
     August 17th, 2022
     Chapter 3 - Exercise 10
-    Perfomrs an operation based on user input of an operator followed by two operand values.
+    Performs an operation based on user input of an operator followed by two operand values.
 */
 
 #include <iostream>

@@ -36,4 +36,6 @@ int main()
     else {
         std::cout << "Ratio: " << val1 / val2 << std::endl;
     }
+
+    return 0;
 }

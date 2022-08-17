@@ -1,8 +1,8 @@
 /*
     Jeffrey D. Daye
     August 17th, 2022
-    Chapter 3 - Exercise 5
-    Getting the smaller, larger, sum, difference, product, and ratio of two floating-point values.
+    Chapter 3 - Exercise 6
+    Sorts three integer values to lowest to greatest.
 */
 
 #include <iostream>

@@ -2,7 +2,7 @@
     Jeffrey D. Daye
     August 17th, 2022
     Chapter 3 - Exercise 4
-    Getting the smaller, larger, sum, difference, product, and ratio of to value.
+    Getting the smaller, larger, sum, difference, product, and ratio of two integer values.
 */
 
 #include <iostream>
@@ -34,6 +34,6 @@ int main()
         std::cout << "Division by zero isn't possible!" << std::endl;
     }
     else {
-        std::cout << val1 / val2 << std::endl;
+        std::cout << "Ratio: " << val1 / val2 << std::endl;
     }
 }

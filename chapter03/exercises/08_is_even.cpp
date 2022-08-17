@@ -6,7 +6,6 @@
 */
 
 #include <iostream>
-#include <string>
 
 bool is_even(int integer)
 {

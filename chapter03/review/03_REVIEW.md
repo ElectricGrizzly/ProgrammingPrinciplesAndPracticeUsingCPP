@@ -110,7 +110,7 @@
     <li>
         <details>
             <summary><strong>What is string concatenation and how do you make it work in C++?</strong></summary>
-            <p>Strign concatenation is creating a resultant string from two other strings, where the string on the left side of the + operator will be first, and the string on the right side of the + operator will be second. Such as s1=Hey, s2=Hellow, s1+s2=HeyHello. Concatenation is invoked with the + operator.
+            <p>String concatenation is creating a resultant string from two other strings, where the string on the left side of the + operator will be first, and the string on the right side of the + operator will be second. Such as s1=Hey, s2=Hellow, s1+s2=HeyHello. Concatenation is invoked with the + operator.
         </details>
     </li>
     <li>

@@ -75,6 +75,7 @@ int main()
 
         std::cout << std::endl;
     }
+    
     std::sort(values.begin(), values.end());
     std::cout << "Largest: " << largest << largest_unit << std::endl;
     std::cout << "Smallest: " << smallest << smallest_unit << std::endl;

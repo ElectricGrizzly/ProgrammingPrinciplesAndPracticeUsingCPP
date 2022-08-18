@@ -33,7 +33,7 @@
 </details>
 <details>
     <summary><strong>cout</strong></summary>
-    <p>An abbreviation of character output stream. Character used with the output operator and cout will appear on screen.</p>
+    <p>An abbreviation of character output stream. Characters used with the output operator and cout will appear on screen.</p>
 </details>
 <details>
     <summary><strong>executable</strong></summary>
@@ -92,73 +92,73 @@
 
 <details>
     <summary><strong>assignment</strong></summary>
-    <p></p>
+    <p>Provides a value to a named object of a certain type.</p>
 </details>
 <details>
     <summary><strong>cin</strong></summary>
-    <p></p>
+    <p>An abbreviation of character input stream. Characters entered on screen will be input into the specified variable.</p>
 </details>
 <details>
     <summary><strong>concatenation</strong></summary>
-    <p></p>
+    <p>String concatenation is creating a resultant string from two other strings, where the string on the left side of the + operator will be first, and the string on the right side of the + operator will be second.</p>
 </details>
 <details>
     <summary><strong>conversion</strong></summary>
-    <p></p>
+    <p>Converting an object of a certain type to another type.</p>
 </details>
 <details>
     <summary><strong>declaration</strong></summary>
-    <p></p>
+    <p>An introduction of a name into a scope. The type of the name must be specified. If the declaration also specifies the entity to which the name refers, the declaration is also a definition.</p>
 </details>
 <details>
     <summary><strong>decrement</strong></summary>
-    <p></p>
+    <p>Decrease in value using the -- operator to decrease a value by 1 or the -= operator to decrease a value by n.</p>
 </details>
 <details>
     <summary><strong>definition</strong></summary>
-    <p></p>
+    <p>A declaration that specifies the entity to which the declared name refers.</p>
 </details>
 <details>
     <summary><strong>increment</strong></summary>
-    <p></p>
+    <p>Increase in value using the ++ operator to increase a value by 1 or the -= operator to increase a value by n.</p>
 </details>
 <details>
     <summary><strong>initialization</strong></summary>
-    <p></p>
+    <p>Giving an object an initial value. Initialization differs from assignments in that there is no previous value involved.</p>
 </details>
 <details>
     <summary><strong>name</strong></summary>
-    <p></p>
+    <p>Sequence of letters and digits started by a letter, used to identify ("name") user-defined entities in program text.</p>
 </details>
 <details>
     <summary><strong>narrowing</strong></summary>
-    <p></p>
+    <p>Converting an object of a particular type to a type that is smaller in size.</p>
 </details>
 <details>
     <summary><strong>object</strong></summary>
-    <p></p>
+    <p>An initialized region of memory of known a known type which holds a value of that type.</p>
 </details>
 <details>
     <summary><strong>operation</strong></summary>
-    <p></p>
+    <p>Something that can perform some action, such as a function and an operator.</p>
 </details>
 <details>
     <summary><strong>operator</strong></summary>
-    <p></p>
+    <p>Conventional notation for built-in operations, such as +, *, &, and more.</p>
 </details>
 <details>
     <summary><strong>type</strong></summary>
-    <p></p>
+    <p>Something that defines a set of possible values and a set of operation for an object.</p>
 </details>
 <details>
     <summary><strong>type safety</strong></summary>
-    <p></p>
+    <p>The property that an object can be accessed only according to its definition. C++ approximates this ideal. A programmer can violate type safety by explicitly using a cast, by using an uninitialized variable, by using a pointer that doesn't point to an object, by accessing beyond the end of an array, and by misusing a union. For low-level systems code, it can be necessary to violate type safety, but generally type safety must be preserved for a program to be correct and maintainable.</p>
 </details>
 <details>
     <summary><strong>value</strong></summary>
-    <p></p>
+    <p>A set of bits in memory interpreted according to a type.</p>
 </details>
 <details>
     <summary><strong>variable</strong></summary>
-    <p></p>
+    <p>A named object of a given type, containing a value unless uninitialized.</p>
 </details>

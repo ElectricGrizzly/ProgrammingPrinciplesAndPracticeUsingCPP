@@ -8,8 +8,8 @@
     </li>
     <li>
         <details>
-            <summary><strong>Which operator do you use to read into a variable?</strong>cin, an abbreviation for character input stream.</summary>
-            <p>
+            <summary><strong>Which operator do you use to read into a variable?</strong></summary>
+            <p>cin, an abbreviation for character input stream.</p>
         </details>
     </li>
     <li>

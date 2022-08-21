@@ -9,16 +9,6 @@
 #include <vector>
 #include <string>
 
-// int convertStringToInt(std::string value)
-// {
-
-// }
-
-// std::string convertIntToString(int value)
-// {
-
-// }
-
 int main()
 {
     std::string number = " ";

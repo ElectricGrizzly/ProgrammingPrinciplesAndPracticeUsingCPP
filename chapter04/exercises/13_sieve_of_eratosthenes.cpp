@@ -18,9 +18,7 @@ void make_prime_array(std::vector<bool> &is_prime_array, int max)
 
 int main()
 {   
-    int max = 0;
-    std::cout << "Please enter the number to check for primes numbers up to: " << std::endl;
-    std::cin >> max;
+    constexpr int max = 100;
     std::vector<bool> is_prime_array;
     make_prime_array(is_prime_array, max);
 

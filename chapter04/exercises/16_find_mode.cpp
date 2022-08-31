@@ -1,6 +1,6 @@
 /*
     Jeffrey D. Daye
-    August 29th, 2022
+    August 30th, 2022
     Chapter 4 - Exercise 16
     Find the mode of a series of positive integers.
 */

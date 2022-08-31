@@ -6,12 +6,10 @@
 */
 
 #include <iostream>
-#include <vector>
 #include <unordered_map>
 
 int main()
 {
-    std::vector<int> numbers;
     std::unordered_map<int, int> counts;
     int mode = 0;
     std::cout << "Enter a series of positive integers seperated by spaced. Place '|' followed by pressing 'enter' to terminate:" << std::endl;

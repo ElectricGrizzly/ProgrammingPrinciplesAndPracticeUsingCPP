@@ -7,18 +7,28 @@
 
 #include <iostream>
 #include <vector>
-#include <map>
+#include <unordered_map>
 
 int main()
 {
     std::vector<int> numbers;
-    std::map<int, int> counts;
-    int largest = 0;
-    std::cout << "Enter a series of positive integers seperated by spaced. Press 'enter' to terminate:" << std::endl;
+    std::unordered_map<int, int> counts;
+    int mode = 0;
+    std::cout << "Enter a series of positive integers seperated by spaced. Place '|' followed by pressing 'enter' to terminate:" << std::endl;
 
     for(int number; std::cin >> number;) {
-        numbers.push_back(number);
+        if(counts.count(number) == 0) {
+            counts[number] = 1;
+        }
+        else {
+            counts[number] += 1;
+        }
+        if(counts[number] > counts[mode]) {
+            mode = number;
+        }
     }
+
+    std::cout << "The mode is " << mode << std::endl;
 
     return 0;
 }

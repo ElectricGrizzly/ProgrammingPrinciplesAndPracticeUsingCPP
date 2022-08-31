@@ -12,7 +12,7 @@ int main()
 {
     std::unordered_map<int, int> counts;
     int mode = 0;
-    std::cout << "Enter a series of positive integers seperated by spaced. Place '|' followed by pressing 'enter' to terminate:" << std::endl;
+    std::cout << "Enter a series of positive integers seperated by spaces. Place '|' followed by pressing 'enter' to terminate:" << std::endl;
 
     for(int number; std::cin >> number;) {
         if(counts.count(number) == 0) {

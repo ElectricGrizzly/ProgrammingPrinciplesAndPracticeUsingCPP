@@ -15,7 +15,7 @@ int main()
     int score = 0;
     std::unordered_map<std::string, int> names_scores;
 
-    std::cout << "Enter a name followed by a score: " << std::endl;
+    std::cout << "Enter a name followed by a score (enter 'NoName 0' to terminate): " << std::endl;
     while(std::cin >> name >> score && (name != "NoName" || score != 0)) {
         if(names_scores.count(name) == 0) {
             names_scores[name] = score;

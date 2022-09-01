@@ -26,8 +26,8 @@ int main()
         }
     }
 
-    for (auto name: names_scores) {
-        std::cout << "Name: " << name.first << "\tScore: " << name.second << std::endl;
+    for (auto name_score: names_scores) {
+        std::cout << "Name: " << name_score.first << "\tScore: " << name_score.second << std::endl;
     }
 
     return 0;

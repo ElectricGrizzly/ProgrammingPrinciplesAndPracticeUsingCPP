@@ -6,12 +6,10 @@
 */
 
 #include <iostream>
-#include <vector>
 #include <unordered_map>
 
 int main()
 {
-    std::vector<int> numbers;
     std::unordered_map<std::string, int> counts;
     std::string mode = "";
     std::string smallest = "zzzzzzzzzzzzzzzz";

@@ -2,7 +2,7 @@
     Jeffrey D. Daye
     August 31st, 2022
     Chapter 4 - Exercise 20
-    Take entry of name and value pairs and output the results. Print out results by name
+    Take entry of name and value pairs and output the results. Print out score results by name
 */
 
 #include <iostream>

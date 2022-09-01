@@ -1,8 +1,8 @@
 /*
     Jeffrey D. Daye
     August 31st, 2022
-    Chapter 4 - Exercise 22
-    Take entry of name and value pairs and output the results. Print out results by score,
+    Chapter 4 - Exercise 21
+    Take entry of name and value pairs and output the results. Print out name results by score.
 */
 
 #include <iostream>

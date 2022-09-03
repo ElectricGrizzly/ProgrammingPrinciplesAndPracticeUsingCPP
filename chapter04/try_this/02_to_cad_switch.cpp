@@ -1,8 +1,9 @@
 /*
     Jeffrey D. Daye
     September 3rd, 2022
-    Chapter 4 - Try This 1
-    Take a user entry of a number and symbol (representing currency) and convert to Canadian dollars*.
+    Chapter 4 - Try This 2
+    Take a user entry of a number and symbol (representing currency) and convert to Canadian dollars*
+    using a switch statement (completed in previous try this as well).
     * Conversion rates as of date of creation.
 */
 
@@ -14,6 +15,8 @@ int main()
     constexpr double cad_per_euro = 1.3072363;
     constexpr double cad_per_pound = 1.5123264;
     constexpr double cad_per_yen = 0.0093668906;
+    constexpr double cad_per_yuan = 0.19039053;
+    constexpr double cad_per_kroner = 0.17577468;
 
     double amount = 0;
     std::string amount_word = "";
@@ -43,6 +46,14 @@ int main()
             case 'y': case 'Y':
                 cad = amount * cad_per_yen;
                 amount_word = "Yen";
+                break;
+            case 'k': case 'K':
+                cad = amount * cad_per_kroner;
+                amount_word = "Krone";
+                break;
+            case 'u': case 'U':
+                cad = amount * cad_per_yuan;
+                amount_word = "Yuan";
                 break;
             default:
                 std::cout << "We can't convert that currency!" << std::endl;

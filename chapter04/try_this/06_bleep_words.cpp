@@ -9,14 +9,14 @@
 #include <vector>
 #include <string>
 
-void create_disliked_words (std::vector<std::string> &disliked, std::string terminator)
+void create_disliked_words (std::vector<std::string> &disliked, std::string &terminator)
 {
     for (std::string word; std::cin >> word && word != terminator;) {
         disliked.push_back(word);
     }
 }
 
-void filter_entered_words (std::vector<std::string> &disliked, std::string terminator)
+void filter_entered_words (std::vector<std::string> &disliked, std::string &terminator)
 {
     for (std::string word; std::cin >> word && word != terminator;) {
         bool found = false;

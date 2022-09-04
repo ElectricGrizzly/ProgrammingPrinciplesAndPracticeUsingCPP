@@ -22,7 +22,7 @@ int main()
         << "\ntwice n == " << n+n
         << "\nn squared == " << n*n
         << "\nhalf of n == " << n/2
-        << "\nsquare root of n == " << sqrt(n)
+        << "\nsquare root of n == " << sqrt(m)
         << "\n";
 
     return 0;

@@ -162,3 +162,130 @@
     <summary><strong>variable</strong></summary>
     <p>A named object of a given type, containing a value unless uninitialized.</p>
 </details>
+
+## Chapter 4
+
+<details>
+    <summary><strong>abstraction</strong></summary>
+    <p>A description of something that selectively and deliberately ignores (hides) details (e.g., implementation details); selective ignorance.</p>
+</details>
+<details>
+    <summary><strong>begin()</strong></summary>
+    <p>An iterator that points to the first element in a vector.</p>
+</details>
+<details>
+    <summary><strong>computation</strong></summary>
+    <p>The execution of some code, usually taking some input and producing some output.</p>
+</details>
+<details>
+    <summary><strong>conditional statement</strong></summary>
+    <p>Statement of code that prevents access to a block of code based on a condition such as for, if, switch, and while statements.</p>
+</details>
+<details>
+    <summary><strong>declaration</strong></summary>
+    <p>The specification of a name with its type in a program.</p>
+</details>
+<details>
+    <summary><strong>definition</strong></summary>
+    <p>A declaration of an entity that supplies all information necessary to complete a program using the entity. A declaration that allocates memory.</p>
+</details>
+<details>
+    <summary><strong>divide and conquer</strong></summary>
+    <p>Taking a large problem and dividing it into several little ones.</p>
+</details>
+<details>
+    <summary><strong>else</strong></summary>
+    <p>The other condition of an if-statement. If the if-statement is not executed, than the else-statment is executed.</p>
+</details>
+<details>
+    <summary><strong>end()</strong></summary>
+    <p>An iterator that points to the past-the-end element in a vector.</p>
+</details>
+<details>
+    <summary><strong>expression</strong></summary>
+    <p>Combination of operators and names producing a value.</p>
+</details>
+<details>
+    <summary><strong>for-statement</strong></summary>
+    <p>Iteration statement specifying an initializer, an iteration condition, a "next-iteration" operation, and a controlled statement.</p>
+</details>
+<details>
+    <summary><strong>range-for-statement</strong></summary>
+    <p>A for-statement that is defined by a range such as 0:5 being 0, 1, 2, 3, and 4.</p>
+</details>
+<details>
+    <summary><strong>function</strong></summary>
+    <p>A named unit of code that can be invoked (called) from different parts of a program; a logiical unit of computation.</p>
+</details>
+<details>
+    <summary><strong>if-statement</strong></summary>
+    <p>Statement selecting between two alternatives based on a condition.</p>
+</details>
+<details>
+    <summary><strong>increment</strong></summary>
+    <p>Increase in value using the ++ operator to increase a value by 1 or the -= operator to increase a value by n.</p>
+</details>
+<details>
+    <summary><strong>input</strong></summary>
+    <p>Values used by a computation.</p>
+</details>
+<details>
+    <summary><strong>iteration</strong></summary>
+    <p>The act of repeatedly executing a piece of code.</p>
+</details>
+<details>
+    <summary><strong>loop</strong></summary>
+    <p>A piece of code execued repeatedly; in C++, typically a for-statement or a while-statement.</p>
+</details>
+<details>
+    <summary><strong>lvalue</strong></summary>
+    <p>An expression that may appear on the left-hand side of an assignment.</p>
+</details>
+<details>
+    <summary><strong>member function</strong></summary>
+    <p>A function declared in the cope of a class. A member function that is not a static member function must be called for an object of its class.</p>
+</details>
+<details>
+    <summary><strong>output</strong></summary>
+    <p>Values produced by a computation.</p>
+</details>
+<details>
+    <summary><strong>push_back()</strong></summary>
+    <p>Member function that adds an element at the end of a standard container, such as vector, thereby increasing the containers size by one.</p>
+</details>
+<details>
+    <summary><strong>repetition</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>rvalue</strong></summary>
+    <p>An expression that may appear on the right-hand side of an assignment, but not of the left-hand side.</p>
+</details>
+<details>
+    <summary><strong>selection</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>size()</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>sort()</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>statement</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>switch-statement</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>vector</strong></summary>
+    <p></p>
+</details>
+<details>
+    <summary><strong>while-statement</strong></summary>
+    <p></p>
+</details>

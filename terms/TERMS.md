@@ -255,7 +255,7 @@
 </details>
 <details>
     <summary><strong>repetition</strong></summary>
-    <p></p>
+    <p>Repeating an operation multiple time such as the code contained in the block of a for-loop.</p>
 </details>
 <details>
     <summary><strong>rvalue</strong></summary>
@@ -263,29 +263,29 @@
 </details>
 <details>
     <summary><strong>selection</strong></summary>
-    <p></p>
+    <p>Statements such as if and switch statments used as a means to conditionally execute sections of code.</p>
 </details>
 <details>
     <summary><strong>size()</strong></summary>
-    <p></p>
+    <p>Returns the number of elements in a vector.</p>
 </details>
 <details>
     <summary><strong>sort()</strong></summary>
-    <p></p>
+    <p>Sorts the elements of a container in ascending order using iterators of the first and last elements.</p>
 </details>
 <details>
     <summary><strong>statement</strong></summary>
-    <p></p>
+    <p>The basic unit controlling the execution flow in a function, such as if-statement, while-statement, do-statement, switch-statement, expression statement, and declaration.</p>
 </details>
 <details>
     <summary><strong>switch-statement</strong></summary>
-    <p></p>
+    <p>Statement selecting among many alternative based on an integer value.</p>
 </details>
 <details>
     <summary><strong>vector</strong></summary>
-    <p></p>
+    <p>Standard library template providing cntiguous storage, resizing, and the usefull push_back() function for adding elements at the end. Vector is the default container.</p>
 </details>
 <details>
     <summary><strong>while-statement</strong></summary>
-    <p></p>
+    <p>A loop statement presenting its condition "at the top".</p>
 </details>
